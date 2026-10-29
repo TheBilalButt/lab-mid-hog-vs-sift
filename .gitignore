@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*.npz
+*.log
+*.html
+scratch/
+test.*
+test_assets.py
+run_experiments.py
+build_notebook.py
+build_full_submission.py
+generate_submission_files.py
+generate_md_and_pdf.py
+generate_submission.py
